@@ -1,0 +1,3 @@
+[submodule "ambiance"]
+	path = ambiance
+	url = https://github.com/jmendeth/nice-ace-ambiance.git
